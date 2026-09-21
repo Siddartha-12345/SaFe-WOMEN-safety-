@@ -2,6 +2,8 @@
 
 A women's safety application with dynamic data management using Vanilla JavaScript and IndexedDB.
 
+https://wondrous-palmier-1b9c47.netlify.app/
+
 ## 🚀 Implementation Complete!
 
 Your SafeHer application has been successfully converted from a static HTML page to a fully dynamic, database-driven application.
